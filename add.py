@@ -1,5 +1,3 @@
-from cryptography.fernet import Fernet
-
 def add(fer):
     website = input("Enter the website: ")
     username = input("Enter the username: ")

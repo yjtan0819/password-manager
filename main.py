@@ -7,7 +7,6 @@ from master_password_check import check_master_password
 import os.path
 
 
-
 if __name__ == "__main__":
 
     if not os.path.exists('key.key'):
